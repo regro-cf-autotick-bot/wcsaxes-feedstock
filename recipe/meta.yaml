@@ -1,4 +1,4 @@
-{% set version = "0.7" %}
+{% set version = "0.8" %}
 
 package:
   name: wcsaxes
@@ -7,7 +7,7 @@ package:
 source:
   fn: wcsaxes-{{version}}.tar.gz
   url: https://pypi.io/packages/source/w/wcsaxes/wcsaxes-{{ version }}.tar.gz 
-  md5: 926ca8579b05667f1c9b6ca807645bc7
+  md5: 34204f76ece3532a1e6f6b0e91e31e78
 
 build:
   number: 0
