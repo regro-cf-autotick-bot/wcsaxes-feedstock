@@ -40,5 +40,5 @@ about:
 extra:
   recipe-maintainers:
     - cadair
-    - astrofrog
+    - astrofrog-conda-forge
     - mwcraig
