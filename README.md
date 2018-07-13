@@ -1,3 +1,8 @@
+wcsaxes has been merged into astropy 
+====================================
+
+All of the functionality of `wcsaxes` has been merged into astropy.
+
 About wcsaxes
 =============
 
