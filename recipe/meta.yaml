@@ -10,7 +10,7 @@ source:
   md5: 5df63a4ab8fe3445fc101a9c62edea79
 
 build:
-  number: 0
+  number: 1000
   script: python setup.py install --offline --no-git --single-version-externally-managed --record record.txt
 
 
